@@ -3,6 +3,7 @@
 Practice git repo
 
 BAUTISTA
+MENDEZ
 ENTERINA
 GAVINO
 DE LA CRUZ
