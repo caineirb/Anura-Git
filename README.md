@@ -4,5 +4,8 @@ Practice git repo
 
 BAUTISTA
 ENTERINA
+GAVINO
+DE LA CRUZ
 CANON
 TIGLEY
+
