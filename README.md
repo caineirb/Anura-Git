@@ -3,8 +3,7 @@
 Practice git repo
 
 BAUTISTA
-<<<<<<< HEAD
 DE LA CRUZ
-=======
+CANON
 TIGLEY
->>>>>>> master
+
