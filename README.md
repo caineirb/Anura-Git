@@ -4,4 +4,5 @@ Practice git repo
 
 BAUTISTA
 GAVINO
+CANON
 TIGLEY
